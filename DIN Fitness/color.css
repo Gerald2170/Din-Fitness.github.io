@@ -1,0 +1,63 @@
+/* 全局样式 */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* 页眉样式 */
+  header {
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 36px;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 18px;
+    padding: 10px;
+  }
+  
+  nav ul li a:hover {
+    background-color: #FFFFFF;
+    color: #000000;
+  }
+  
+  /* 主要内容样式 */
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #F0F0F0;
+  }
+  
+  h2 {
+    color: #000000;
+    font-size: 24px;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
